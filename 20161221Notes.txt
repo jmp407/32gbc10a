@@ -1,0 +1,21 @@
+Startup for Node-Red Flows can chart Arduino DAQ
+See flow from Ardone node
+Welcome to Node-RED
+===================
+
+21 Dec 05:46:00 - [info] Node-RED version: v0.15.2
+21 Dec 05:46:00 - [info] Node.js  version: v0.10.29
+21 Dec 05:46:00 - [info] Linux 4.4.32-v7+ arm LE
+21 Dec 05:46:00 - [info] Loading palette nodes
+21 Dec 05:46:04 - [info] Dashboard version 2.1.0 started at /ui
+21 Dec 05:46:06 - [info] Settings file  : /home/pi/.node-red/settings.js
+21 Dec 05:46:06 - [info] User directory : /home/pi/.node-red
+21 Dec 05:46:06 - [info] Flows file     : /home/pi/.node-red/flows_32gbc10a.json
+21 Dec 05:46:06 - [info] Server now running at http://127.0.0.1:1880/
+21 Dec 05:46:06 - [info] Starting flows
+21 Dec 05:46:06 - [info] Started flows
+21 Dec 05:46:07 - [info] serial port /dev/ttyACM0 opened at 9600 baud 8N1
+21 Dec 05:46:07 - [error] [function:2thrms object] SyntaxError: Unexpected string
+21 Dec 05:46:07 - [error] [function:thrms object1] SyntaxError: Unexpected string
+21 Dec 05:46:07 - [error] [function:2thrms object] SyntaxError: Unexpected token t
+21 Dec 05:46:07 - [error] [function:thrms object1] SyntaxError: Unexpected token t
